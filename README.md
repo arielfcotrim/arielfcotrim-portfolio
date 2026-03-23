@@ -34,6 +34,22 @@ Built with modern web technologies and a docs-as-code approach, the repository s
 
 This repository powers the public professional website of Ariel F. Cotrim and serves as a centralized source of truth for career information and technical documentation.
 
+## Repository Structure
+
+- `src/` contains the Next.js App Router application
+- `public/` contains site static assets
+- `Resources/` contains repository assets such as README media
+- `PRD and Design.md` contains planning and product notes
+
+## Development
+
+Run the website locally from the repository root:
+
+```bash
+npm install
+npm run dev
+```
+
 ---
 
 ⚠️ The content represents personal professional work and documentation. For more details regarding licensing see the repo [LICENSE](LICENSE).
