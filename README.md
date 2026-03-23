@@ -1,2 +1,39 @@
-# arielfcotrim-portfolio
-Personal portfolio, professional profile, and technical documentation site of Ariel F. Cotrim — QA Automation Infrastructure Engineer specializing in scalable test systems, backend automation, and AI-assisted engineering.
+![Aristotle Wisdom and Family Heraldry Banner.png](resources/Aristotle%20Wisdom%20and%20Family%20Heraldry%20Banner.png)
+
+# Ariel Forner Cotrim - Professional Portfolio
+
+Professional profile + technical documentation platform built using a docs-as-code approach:
+
+1. Professional portfolio: career and certifications
+2. Resume hub: projects and achievements
+3. Technical documentation
+
+This site showcases professional experience, certifications, projects, and engineering documentation related to automation infrastructure, backend testing, and AI-assisted development.
+
+Built with modern web technologies and a docs-as-code approach, the repository serves both as a public professional profile and as a structured knowledge base for technical work.
+
+## Features
+
+- Professional portfolio and resume
+- Career timeline and detailed experience pages
+- Certifications with in-depth coverage
+- Project portfolio with technical deep dives
+- Documentation section for architecture, APIs, and engineering practices
+- Docs-as-code workflow using MDX
+- Static-first, SEO-friendly site architecture
+
+## Tech Stack
+
+- Next.js (App Router)
+- TypeScript
+- Tailwind CSS
+- MDX
+- Vercel deployment
+
+## Purpose
+
+This repository powers the public professional website of Ariel F. Cotrim and serves as a centralized source of truth for career information and technical documentation.
+
+---
+
+⚠️ The content represents personal professional work and documentation. Code reuse may be restricted depending on the license (see below).
