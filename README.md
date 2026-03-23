@@ -36,7 +36,5 @@ This repository powers the public professional website of Ariel F. Cotrim and se
 
 ---
 
-⚠️ The content represents personal professional work and documentation. For more details regarding licensing see the file:
-
-[LICENSE](LICENSE)
+⚠️ The content represents personal professional work and documentation. For more details regarding licensing see the repo [LICENSE](LICENSE).
 
